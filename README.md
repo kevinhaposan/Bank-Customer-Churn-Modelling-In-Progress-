@@ -19,7 +19,7 @@ Churn Rate (%)
 ## **B. Exploratory Data Analysis**
 ## B1. Descriptive Statistics
 
-About dataset:
+About dataset:<br>
 This dataset was taken from [Kaggle](https://www.kaggle.com/code/mathchi/churn-problem-for-bank-customer/input?select=churn.csv)
 - The dataset consist of 10,000 rows and 14 columns.
 - The dataset consist of 10,000 rows and 14 columns.
