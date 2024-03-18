@@ -61,8 +61,8 @@ Follow-up steps during data processing are:
 <br>
 
 Correlation of each feature:
-Age and Balance show the highest positive correlation value, indicating that as the age and balance increase, the churn rate will also increase.
-IsActiveMember shows a correlation value of -0.16 and a negative correlation, suggesting that if the customer is not active, the likelihood of churn will increase.
-As for Credit Score, Tenure, NumofProducts, Has Credit Card, and Estimated Salary, they show very small values < 0.1.
+- Age and Balance show the highest positive correlation value, indicating that as the age and balance increase, the churn rate will also increase.
+- IsActiveMember shows a correlation value of -0.16 and a negative correlation, suggesting that if the customer is not active, the likelihood of churn will increase.
+- As for Credit Score, Tenure, NumofProducts, Has Credit Card, and Estimated Salary, they show very small values < 0.1.
 
 No interesting patterns: in the pairplot, there are no clusters of straight points.
