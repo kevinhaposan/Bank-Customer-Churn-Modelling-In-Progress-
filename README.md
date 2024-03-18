@@ -1,4 +1,4 @@
-# **Bank-Customer-Churn-Modelling**
+# **Churn-for-Bank-Customer-Modelling**
 Note: This content is in progress
 
 ## **A. Introduction**
