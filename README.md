@@ -2,7 +2,9 @@
 
 ## **A. Introduction**
 ## A1. Background
-Technological developments and increasingly fierce competition are pushing companies not only to focus on acquiring new customers but also on retaining existing ones. Raka Bank is one startup company that focuses on this problem. Based on the data the company has, **RakaBank has a churn rate of 20.37%**. Generally, startup banks believe that an **annual churn rate of less than 15% is acceptable**. Raka Bank wants to identify which aspects encourage customers to churn so that they can provide the right solution to prevent customers from churning. Raka Bank has asked Data Lovelace for help to predict and identify factors that encourage customers to churn.
+Technological developments and increasingly fierce competition are pushing companies not only to focus on acquiring new customers but also on retaining existing ones. Raka Bank is one startup company that focuses on this problem. Based on the data the company has, **RakaBank has a churn rate of 20.37%**. Generally, startup banks believe that an **annual churn rate of less than 15% is acceptable**. 
+
+Raka Bank wants to identify which aspects encourage customers to churn so that they can provide the right solution to prevent customers from churning. Raka Bank has asked Data Lovelace for help to predict and identify factors that encourage customers to churn.
 
 ## A2. Goals
 Decrease churn rate from 20.37% to at least under 15% in order to reduce cost.
