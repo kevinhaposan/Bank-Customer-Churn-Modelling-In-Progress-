@@ -66,3 +66,8 @@ Correlation of each feature:
 - As for Credit Score, Tenure, NumofProducts, Has Credit Card, and Estimated Salary, they show very small values < 0.1.
 
 No interesting patterns: in the pairplot, there are no clusters of straight points.
+
+## **C. Data Preprocessing**
+![Preprocessing Flow](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/c3335c5d-fd52-4cd4-91a9-26adaed18d2d)
+
+
