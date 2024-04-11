@@ -68,6 +68,7 @@ Correlation of each feature:
 No interesting patterns: in the pairplot, there are no clusters of straight points.
 
 ## **C. Data Preprocessing**
-![Preprocessing Flow](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/c3335c5d-fd52-4cd4-91a9-26adaed18d2d)
+![modeling flow chart](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/2da20e40-42f9-448f-bca4-105e34545d86)<br>
+
 
 
