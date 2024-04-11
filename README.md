@@ -70,5 +70,24 @@ No interesting patterns: in the pairplot, there are no clusters of straight poin
 ## **C. Data Preprocessing**
 ![modeling flow chart](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/2da20e40-42f9-448f-bca4-105e34545d86)<br>
 
+## **D. Machine Learning Modelling**
+## D1. Model Evaluation
+![Model Evaluation](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/bab7a934-b670-4ae3-b783-df8f373ba723) <br>
+In this model, we will compare three metrics to determine the model we will use. These metrics are accuracy, recall, and ROC_AUC.
+Accuracy
+Accuracy in a model refers to the proportion of correctly classified instances out of the total instances evaluated. It is a measure of the model's overall correctness and is calculated as the number of correct predictions divided by the total number of predictions. It is one of the most commonly used evaluation metrics for classification tasks.
 
+Recall
+Recall measures the ratio between the number of customers who are predicted to leave who left the bank company and the number of customers who are predicted to stay but left the bank company. Maximizing recall means minimizing the number of customers who are incorrectly predicted to stay.
+
+ROC_AUC
+ROC-AUC measures its ability to distinguish between positive and negative classes across different threshold settings, with higher values indicating better performance in classification tasks.
+
+Based on the summary of the 6 models that have been created, the models that performed well are:
+1. Random Forest
+2. AdaBoost
+3. XGBoost
+
+Therefore, the test set will be inputted into these models.
+![image](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/d15d7b4e-e883-4b49-af55-957c43911a5c)
 
