@@ -89,5 +89,8 @@ Based on the summary of the 6 models that have been created, the models that per
 3. XGBoost
 
 Therefore, the test set will be inputted into these models.
-![image](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/d15d7b4e-e883-4b49-af55-957c43911a5c)
+
+![confusion metrics](https://github.com/kevinhaposan/Churn-for-Bank-Customer-Modelling/assets/156397084/b60c39e3-d558-4bc7-af0d-5693312c3834)
+
+AdaBoost shows higher performance than RandomForest and XGBoost in the top two metrics, but its low recall rate suggests limitations. Meanwhile, XGBoost performs better than RandomForest across these metrics, indicating its reliability as a model.
 
